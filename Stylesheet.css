@@ -1,0 +1,39 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    background-color:#ADDEDB;
+}
+
+p{
+  text-align: justify;  
+  color: #000000;
+  }
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    }
+
+.mono1:hover{
+    color: #DD00FF;
+}
+
+h3{
+    text-decoration: underline;
+    text-align: center;
+}
+
+ul{
+    color: #000000;
+}
+
+ol{
+    color: #000000;
+}
+
+.mono a:hover{
+    color: #DD00FF;
+}
+
+.mono a:visited{
+    color: #F44336;
+}
